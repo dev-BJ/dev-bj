@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hey there! 👋 I'm Phreaker / dev-bj <br><br>🔭 I’m currently working on CleanEnv, a cool IoT project for sustainable power generation.  <br>👯 I’m looking to collaborate on open-source web dev, mobile apps, embedded systems, or ML/AI projects.  <br>🤝 I’m looking for help with boosting code performance and nailing system design.  <br>🌱 I’m currently learning TypeScript, Python, Next.js, C/C++, PHP, Rust, and React Native.  <br>💬 Ask me about innovative project ideas or brainstorming new solutions!  <br>⚡ Fun fact: I love cracking tough problems, from code to concepts.
+ Hey there! 👋 I'm Oluwagbenga Boluwatife Joshua/ phreaker <br><br>🔭 I’m currently working on CleanEnv, a cool IoT project for sustainable power generation.  <br>👯 I’m looking to collaborate on open-source web dev, mobile apps, embedded systems, or ML/AI projects.  <br>🤝 I’m looking for help with boosting code performance and nailing system design.  <br>🌱 I’m currently learning TypeScript, Python, Next.js, C/C++, PHP, Rust, and React Native.  <br>💬 Ask me about innovative project ideas or brainstorming new solutions!  <br>⚡ Fun fact: I love cracking tough problems, from code to concepts.
 
 
 ## 🌐 Socials:
